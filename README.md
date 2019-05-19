@@ -1,4 +1,5 @@
-# 263-295-Project
-Our project for 263N and 295
+We developed a convex optimization model driven by the LA-probe data to provide a traffic policy suggestion on LA costal areas during tsunami attacks.
 
-https://www.google.com/maps/@33.6111592,-117.9117034,13.61z
+Please see the 295_Final_Report.pdf for the detail descriptions.
+
+Presentation of this project can be found at https://drive.google.com/open?id=1w_2A9Uh4N3oyLEEZwW-Y2qcbVJb66Z1ChcpCesX7zPE
